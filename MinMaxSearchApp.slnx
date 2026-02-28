@@ -1,6 +1,6 @@
 <Solution>
   <Folder Name="/Элементы решения/">
-    <Project Path="UnitTestProject1/MinMaxSearchTests.csproj" />
+    <Project Path="UnitTestProject1/MinMaxSearchTests.csproj" Id="07982228-0fbb-4b66-94c5-e93117d09d4b" />
   </Folder>
-  <Project Path="MinMaxSearchApp/MinMaxSearchApp.csproj" />
+  <Project Path="MinMaxSearchApp/MinMaxSearchApp.csproj" Id="2918748f-85ba-48d4-9b2d-26bba78817a6" />
 </Solution>
