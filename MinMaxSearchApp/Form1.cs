@@ -40,7 +40,7 @@ namespace MinMaxSearchApp
             btnRun = new Button { Text = "Запустить анализ", Width = 130, Location = new Point(480, 16), BackColor = Color.LightGreen, Cursor = Cursors.Hand };
             btnRun.Click += BtnRun_Click;
 
-            btnClear = new Button { Text = "Очистить", Width = 90, Location = new Point(620, 16), BackColor = Color.LightCoral, Cursor = Cursors.Hand };
+            btnClear = new Button { Text = "Очистить!", Width = 90, Location = new Point(620, 16), BackColor = Color.LightCoral, Cursor = Cursors.Hand };
             btnClear.Click += BtnClear_Click;
 
             btnHelp = new Button { Text = "Справка", Width = 90, Location = new Point(720, 16), BackColor = Color.LightYellow, Cursor = Cursors.Hand };
