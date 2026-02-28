@@ -75,7 +75,7 @@ namespace MinMaxSearchApp
 
         private void TxtArraySize_TextChanged(object sender, EventArgs e)
         {
-            // Проверка: число ли это и входит ли в диапазон 1 - 1 000 000
+            // Проверка: число ли это и входит ли в диапазон 1 - 1 000 0001
             bool isNumber = int.TryParse(txtArraySize.Text, out int size);
 
             if (isNumber && size >= 1 && size <= 1000000)
